@@ -1,0 +1,29 @@
+name: teching
+favicon: null
+layout_spectrum: 0.2928476280067116
+typography_spectrum: 0.1916920216754079
+title: Teching The Tech
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.08735290472395718
+  lightness: 0.8165362481959164
+  saturation: 0.029634211445227265
+  rhythmicContrast: 0.4998498859349638
+purpose: []
